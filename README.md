@@ -8,6 +8,11 @@ The refractoring process for the website was challenging as this was a project t
 
 Click [here](https://baoxng.github.io/Horiseon-Marketing-Site/) to go to the live website link for Horiseon Marketing Site.
 
+## Table of Content
+* [Installtion](#installation)
+* [Development](#development)
+* [Conclusion](#Conclusion)
+
 ---
 ## Installation 
 
@@ -19,11 +24,36 @@ Follow these links to `Download` and `Install` the following tools in order to s
 -  Go [GitHub](http://www.github.com) to get repository from client page.
 -  Usage of [Google](http://www.google.com) for resource.
 - Another really good resource besides Google is [W3Schools](https://www.w3schools.com/).
+- Go to [YouTube](http://www.youtube.com) for video tutorials.
 
 ---
 ## Development
-Here is a snip it of the development process from changing all the 'div' into semantic element.
-![](images/div-in-everything.PNG)
+Here is a snip it of the development process from changing all the 'div' into semantic element. Div in the lines instead of semantic element. One difficult thing for me was figuring out why some semantic elements were not working and changing the html and css codes to make them work. One example would be not knowing that for 'aside', I could not use a class with it. The formating of the page would not work for a class with aside and it took hours to figure that out after some source digging. 
+
+<b> Div element used instead of semantic element. </b>
+
+![div-in-everyline.png](/images/div-in-everyline.PNG)
+
+ <b>Changed to semantic 'Header' </b>
+
+![semantic-element.png](/images/semantic-element.PNG)
+
+<b> Before CSS Style Sheet. </b>
+
+![css-before.png](/images/css-before.png)
+
+<b>CSS Style Sheet after</b>
+
+![css-after.png](/images/css-after.png)
+
+---
+
+## Conclusion
+
+One of my favorite thing while working on this project was making a table of content for the CSS Style Sheet and refractoring the CSS codes. It was frustrating when certain elements were not working and functioning, but it was rewarding to see the end result.
+
+![table-content-css.png](/images/table-content-css.png)
+
 
 
 
