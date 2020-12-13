@@ -40,11 +40,11 @@ Here is a snip it of the development process from changing all the 'div' into se
 
 <b> Before CSS Style Sheet. </b>
 
-![css-before.png](/images/css-before.png)
+![css-before.PNG](/images/css-before.PNG)
 
 <b>CSS Style Sheet after</b>
 
-![css-after.png](/images/css-after.png)
+![css-after.PNG](/images/css-after.PNG)
 
 ---
 
@@ -52,7 +52,7 @@ Here is a snip it of the development process from changing all the 'div' into se
 
 One of my favorite thing while working on this project was making a table of content for the CSS Style Sheet and refractoring the CSS codes. It was frustrating when certain elements were not working and functioning, but it was rewarding to see the end result.
 
-![table-content-css.png](/images/table-content-css.png)
+![table-content-css.PNG](/images/table-content-css.PNG)
 
 
 
